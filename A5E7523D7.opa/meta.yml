@@ -1,0 +1,20 @@
+id: A5E7523D7
+title: Toh_182-The_Perfection_of_Generosity-v2
+type: translation
+pechas:
+- IEC336ECF
+- I9634A78F
+source_metadata:
+  creationtool: InterText
+  creationtoolversion: '1.0'
+  datatype: PlainText
+  segtype: block
+  adminlang: en-us
+  srclang: bo
+  o-tmf: XML aligned text
+  eft-text-id: UT22084-061-002
+  eft-text-version: 1.18 2019
+  title: Toh_182-The_Perfection_of_Generosity-v2
+alignment_to_base:
+  IEC336ECF/A888: CF74
+  I9634A78F/5A52: CF74
